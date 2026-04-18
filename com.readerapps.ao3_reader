@@ -2,5 +2,6 @@
   "android_config": {
     "home_messages_per_version": {"1.6.13": "The manual link for the update is available on the Settings page (Get the app on Android)"},
     "enable_shorebird": false
-  }
+  },
+  "android_config_version_1.6.13": {"home_message": "The manual link for the update is available on the Settings page (Get the app on Android)"}
 }
