@@ -2,5 +2,5 @@
   "android_config": {
     "enable_shorebird": false
   },
-  "android_config_version_1.6.13": {"home_message": "The {{manual link}}[https://github.com/TheCarpetMerchant/archive_reader] for the update is available on the Settings page (Get the app on Android)"}
+  "android_config_version_1.6.13": {"home_message": "The {{manual link}}[https://github.com/TheCarpetMerchant/archive_reader] for the update (The one on the update page does not work)"}
 }
